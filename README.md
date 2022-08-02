@@ -37,6 +37,6 @@ Aside from the probability of success, the majority of subscribers are male. Ind
 Lastly, one additional parameter that should be explored is bike id and user types. This might provide insight into which types of bikes are most commonly are used if there is a selection among the bikes available. It might bolster female subscriber usage as well if there is a certain type of bike(s) that are tailored to their needs and/or desires better. 
  
 
-[link to dashboard]("https://public.tableau.com/app/profile/juan.rodriguez3629/viz/NYCAnalysis_16594095849190/NYCCitibikeAnalysis")
+[link to dashboard](https://public.tableau.com/app/profile/juan.rodriguez3629/viz/NYCAnalysis_16594095849190/NYCCitibikeAnalysis)
 
 
